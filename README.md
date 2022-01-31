@@ -1,6 +1,6 @@
 # Employee Record Management Program using C
 
-*Made alongside* [@Bhavaysehgal06](https://github.com/Bhavaysehgal06)
+*Made alongside* [@Sakenz](https://github.com/Sakenz)
 
 A mini-project made in C for employee record management that includes following functions:
 * Add employee record
